@@ -1,0 +1,49 @@
+.upcomingMovies {
+  display: flex;
+  flex-direction: row;
+  background-color: #ff9999;
+  padding: 8px;
+  font-size: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.movies_grid {
+  display: flex;
+  flex-direction: row;
+}
+
+.grid {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  cursor: pointer;
+}
+
+.filterCard {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 20px;
+  width: 24%;
+}
+.newDiv {
+  display: flex;
+  flex-direction: row;
+}
+.releasedMovies {
+  display: flex;
+  flex-direction: row;
+  padding: 40;
+  padding-right: 20px;
+  margin: 4;
+  width: 76%;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 10;
+}
